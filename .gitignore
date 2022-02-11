@@ -163,3 +163,288 @@
 /gradlew.bat
 /settings.gradle
 /.idea/vcs.xml
+/.idea/.gitignore
+/.idea/modules/Bulls and Cows/task/Bulls_and_Cows.Bulls_and_Cows-task.iml
+/.idea/modules/Bulls and Cows/task/Bulls_and_Cows.Bulls_and_Cows-task.main.iml
+/.idea/modules/Bulls and Cows/task/Bulls_and_Cows.Bulls_and_Cows-task.test.iml
+/.idea/modules/Bulls and Cows/task/build/classes/java/Bulls_and_Cows.Bulls_and_Cows-task-build-classes-java.iml
+/.idea/modules/Bulls and Cows/task/build/classes/java/Bulls_and_Cows.Bulls_and_Cows-task-build-classes-java.main.iml
+/.idea/modules/Bulls and Cows/task/build/classes/java/Bulls_and_Cows.Bulls_and_Cows-task-build-classes-java.test.iml
+/.idea/modules/Bulls and Cows/task/build/generated/sources/annotationProcessor/java/Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-annotationProcessor-java.iml
+/.idea/modules/Bulls and Cows/task/build/generated/sources/annotationProcessor/java/Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-annotationProcessor-java.main.iml
+/.idea/modules/Bulls and Cows/task/build/generated/sources/annotationProcessor/java/Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-annotationProcessor-java.test.iml
+/.idea/modules/Bulls and Cows/task/build/generated/sources/headers/java/Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-headers-java.iml
+/.idea/modules/Bulls and Cows/task/build/generated/sources/headers/java/Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-headers-java.main.iml
+/.idea/modules/Bulls and Cows/task/build/generated/sources/headers/java/Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-headers-java.test.iml
+/.idea/modules/Bulls and Cows/task/build/reports/tests/Bulls_and_Cows.Bulls_and_Cows-task-build-reports-tests.iml
+/.idea/modules/Bulls and Cows/task/build/reports/tests/Bulls_and_Cows.Bulls_and_Cows-task-build-reports-tests.main.iml
+/.idea/modules/Bulls and Cows/task/build/reports/tests/Bulls_and_Cows.Bulls_and_Cows-task-build-reports-tests.test.iml
+/.idea/modules/Bulls and Cows/task/build/test-results/Bulls_and_Cows.Bulls_and_Cows-task-build-test-results.iml
+/.idea/modules/Bulls and Cows/task/build/test-results/Bulls_and_Cows.Bulls_and_Cows-task-build-test-results.main.iml
+/.idea/modules/Bulls and Cows/task/build/test-results/Bulls_and_Cows.Bulls_and_Cows-task-build-test-results.test.iml
+/.idea/modules/Bulls and Cows/task/build/tmp/Bulls_and_Cows.Bulls_and_Cows-task-build-tmp.iml
+/.idea/modules/Bulls and Cows/task/build/tmp/Bulls_and_Cows.Bulls_and_Cows-task-build-tmp.main.iml
+/.idea/modules/Bulls and Cows/task/build/tmp/Bulls_and_Cows.Bulls_and_Cows-task-build-tmp.test.iml
+/.idea/modules/Bulls_and_Cows.iml
+/.idea/modules/Topics/Comparable/compareTo/Bulls_and_Cows.Topics-Comparable-compareTo.iml
+/.idea/modules/Topics/Comparable/compareTo/Bulls_and_Cows.Topics-Comparable-compareTo.main.iml
+/.idea/modules/Topics/Comparable/compareTo/Bulls_and_Cows.Topics-Comparable-compareTo.test.iml
+/.idea/modules/Topics/Comparable/Comparing objects/Bulls_and_Cows.Topics-Comparable-Comparing_objects.iml
+/.idea/modules/Topics/Comparable/Comparing objects/Bulls_and_Cows.Topics-Comparable-Comparing_objects.main.iml
+/.idea/modules/Topics/Comparable/Comparing objects/Bulls_and_Cows.Topics-Comparable-Comparing_objects.test.iml
+/.idea/modules/Topics/Comparable/Implement Comparable/Bulls_and_Cows.Topics-Comparable-Implement_Comparable.iml
+/.idea/modules/Topics/Comparable/Implement Comparable/Bulls_and_Cows.Topics-Comparable-Implement_Comparable.main.iml
+/.idea/modules/Topics/Comparable/Implement Comparable/Bulls_and_Cows.Topics-Comparable-Implement_Comparable.test.iml
+/.idea/modules/Topics/Comparable/Implement compareTo method/Bulls_and_Cows.Topics-Comparable-Implement_compareTo_method.iml
+/.idea/modules/Topics/Comparable/Implement compareTo method/Bulls_and_Cows.Topics-Comparable-Implement_compareTo_method.main.iml
+/.idea/modules/Topics/Comparable/Implement compareTo method/Bulls_and_Cows.Topics-Comparable-Implement_compareTo_method.test.iml
+/.idea/modules/Topics/Comparable/Natural ordering/Bulls_and_Cows.Topics-Comparable-Natural_ordering.iml
+/.idea/modules/Topics/Comparable/Natural ordering/Bulls_and_Cows.Topics-Comparable-Natural_ordering.main.iml
+/.idea/modules/Topics/Comparable/Natural ordering/Bulls_and_Cows.Topics-Comparable-Natural_ordering.test.iml
+/.idea/modules/Topics/Comparable/Rewrite compareTo method/Bulls_and_Cows.Topics-Comparable-Rewrite_compareTo_method.iml
+/.idea/modules/Topics/Comparable/Rewrite compareTo method/Bulls_and_Cows.Topics-Comparable-Rewrite_compareTo_method.main.iml
+/.idea/modules/Topics/Comparable/Rewrite compareTo method/Bulls_and_Cows.Topics-Comparable-Rewrite_compareTo_method.test.iml
+/.idea/modules/Topics/Comparable/Rules/Bulls_and_Cows.Topics-Comparable-Rules.iml
+/.idea/modules/Topics/Comparable/Rules/Bulls_and_Cows.Topics-Comparable-Rules.main.iml
+/.idea/modules/Topics/Comparable/Rules/Bulls_and_Cows.Topics-Comparable-Rules.test.iml
+/.idea/modules/Topics/Comparable/Theory/Bulls_and_Cows.Topics-Comparable-Theory.iml
+/.idea/modules/Topics/Comparable/Theory/Bulls_and_Cows.Topics-Comparable-Theory.main.iml
+/.idea/modules/Topics/Comparable/Theory/Bulls_and_Cows.Topics-Comparable-Theory.test.iml
+/.idea/modules/Topics/Introduction to generic programming/Declaring generic classes/Bulls_and_Cows.Topics-Introduction_to_generic_programming-Declaring_generic_classes.iml
+/.idea/modules/Topics/Introduction to generic programming/Declaring generic classes/Bulls_and_Cows.Topics-Introduction_to_generic_programming-Declaring_generic_classes.main.iml
+/.idea/modules/Topics/Introduction to generic programming/Declaring generic classes/Bulls_and_Cows.Topics-Introduction_to_generic_programming-Declaring_generic_classes.test.iml
+/.idea/modules/Topics/Introduction to generic programming/Declaring generic classes - 2/Bulls_and_Cows.Topics-Introduction_to_generic_programming-Declaring_generic_classes_-_2.iml
+/.idea/modules/Topics/Introduction to generic programming/Declaring generic classes - 2/Bulls_and_Cows.Topics-Introduction_to_generic_programming-Declaring_generic_classes_-_2.main.iml
+/.idea/modules/Topics/Introduction to generic programming/Declaring generic classes - 2/Bulls_and_Cows.Topics-Introduction_to_generic_programming-Declaring_generic_classes_-_2.test.iml
+/.idea/modules/Topics/Introduction to generic programming/Pastry packing optimization/Bulls_and_Cows.Topics-Introduction_to_generic_programming-Pastry_packing_optimization.iml
+/.idea/modules/Topics/Introduction to generic programming/Pastry packing optimization/Bulls_and_Cows.Topics-Introduction_to_generic_programming-Pastry_packing_optimization.main.iml
+/.idea/modules/Topics/Introduction to generic programming/Pastry packing optimization/Bulls_and_Cows.Topics-Introduction_to_generic_programming-Pastry_packing_optimization.test.iml
+/.idea/modules/Topics/Introduction to generic programming/Theory/Bulls_and_Cows.Topics-Introduction_to_generic_programming-Theory.iml
+/.idea/modules/Topics/Introduction to generic programming/Theory/Bulls_and_Cows.Topics-Introduction_to_generic_programming-Theory.main.iml
+/.idea/modules/Topics/Introduction to generic programming/Theory/Bulls_and_Cows.Topics-Introduction_to_generic_programming-Theory.test.iml
+/.idea/modules/Topics/Introduction to generic programming/Type arguments/Bulls_and_Cows.Topics-Introduction_to_generic_programming-Type_arguments.iml
+/.idea/modules/Topics/Introduction to generic programming/Type arguments/Bulls_and_Cows.Topics-Introduction_to_generic_programming-Type_arguments.main.iml
+/.idea/modules/Topics/Introduction to generic programming/Type arguments/Bulls_and_Cows.Topics-Introduction_to_generic_programming-Type_arguments.test.iml
+/.idea/modules/Topics/Iterating over arrays/Alphabetical order/Bulls_and_Cows.Topics-Iterating_over_arrays-Alphabetical_order.iml
+/.idea/modules/Topics/Iterating over arrays/Alphabetical order/Bulls_and_Cows.Topics-Iterating_over_arrays-Alphabetical_order.main.iml
+/.idea/modules/Topics/Iterating over arrays/Alphabetical order/Bulls_and_Cows.Topics-Iterating_over_arrays-Alphabetical_order.test.iml
+/.idea/modules/Topics/Iterating over arrays/Boxes/Bulls_and_Cows.Topics-Iterating_over_arrays-Boxes.iml
+/.idea/modules/Topics/Iterating over arrays/Boxes/Bulls_and_Cows.Topics-Iterating_over_arrays-Boxes.main.iml
+/.idea/modules/Topics/Iterating over arrays/Boxes/Bulls_and_Cows.Topics-Iterating_over_arrays-Boxes.test.iml
+/.idea/modules/Topics/Iterating over arrays/Check if an array is sorted ascending/Bulls_and_Cows.Topics-Iterating_over_arrays-Check_if_an_array_is_sorted_ascending.iml
+/.idea/modules/Topics/Iterating over arrays/Check if an array is sorted ascending/Bulls_and_Cows.Topics-Iterating_over_arrays-Check_if_an_array_is_sorted_ascending.main.iml
+/.idea/modules/Topics/Iterating over arrays/Check if an array is sorted ascending/Bulls_and_Cows.Topics-Iterating_over_arrays-Check_if_an_array_is_sorted_ascending.test.iml
+/.idea/modules/Topics/Iterating over arrays/Count how many times a number occurs/Bulls_and_Cows.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.iml
+/.idea/modules/Topics/Iterating over arrays/Count how many times a number occurs/Bulls_and_Cows.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.main.iml
+/.idea/modules/Topics/Iterating over arrays/Count how many times a number occurs/Bulls_and_Cows.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.test.iml
+/.idea/modules/Topics/Iterating over arrays/Cyclically shifting elements/Bulls_and_Cows.Topics-Iterating_over_arrays-Cyclically_shifting_elements.iml
+/.idea/modules/Topics/Iterating over arrays/Cyclically shifting elements/Bulls_and_Cows.Topics-Iterating_over_arrays-Cyclically_shifting_elements.main.iml
+/.idea/modules/Topics/Iterating over arrays/Cyclically shifting elements/Bulls_and_Cows.Topics-Iterating_over_arrays-Cyclically_shifting_elements.test.iml
+/.idea/modules/Topics/Iterating over arrays/Find the sum/Bulls_and_Cows.Topics-Iterating_over_arrays-Find_the_sum.iml
+/.idea/modules/Topics/Iterating over arrays/Find the sum/Bulls_and_Cows.Topics-Iterating_over_arrays-Find_the_sum.main.iml
+/.idea/modules/Topics/Iterating over arrays/Find the sum/Bulls_and_Cows.Topics-Iterating_over_arrays-Find_the_sum.test.iml
+/.idea/modules/Topics/Iterating over arrays/Individual taxes/Bulls_and_Cows.Topics-Iterating_over_arrays-Individual_taxes.iml
+/.idea/modules/Topics/Iterating over arrays/Individual taxes/Bulls_and_Cows.Topics-Iterating_over_arrays-Individual_taxes.main.iml
+/.idea/modules/Topics/Iterating over arrays/Individual taxes/Bulls_and_Cows.Topics-Iterating_over_arrays-Individual_taxes.test.iml
+/.idea/modules/Topics/Iterating over arrays/Right Rotation/Bulls_and_Cows.Topics-Iterating_over_arrays-Right_Rotation.iml
+/.idea/modules/Topics/Iterating over arrays/Right Rotation/Bulls_and_Cows.Topics-Iterating_over_arrays-Right_Rotation.main.iml
+/.idea/modules/Topics/Iterating over arrays/Right Rotation/Bulls_and_Cows.Topics-Iterating_over_arrays-Right_Rotation.test.iml
+/.idea/modules/Topics/Iterating over arrays/Select loops/Bulls_and_Cows.Topics-Iterating_over_arrays-Select_loops.iml
+/.idea/modules/Topics/Iterating over arrays/Select loops/Bulls_and_Cows.Topics-Iterating_over_arrays-Select_loops.main.iml
+/.idea/modules/Topics/Iterating over arrays/Select loops/Bulls_and_Cows.Topics-Iterating_over_arrays-Select_loops.test.iml
+/.idea/modules/Topics/Iterating over arrays/Sum array elements greater than a value/Bulls_and_Cows.Topics-Iterating_over_arrays-Sum_array_elements_greater_than_a_value.iml
+/.idea/modules/Topics/Iterating over arrays/Sum array elements greater than a value/Bulls_and_Cows.Topics-Iterating_over_arrays-Sum_array_elements_greater_than_a_value.main.iml
+/.idea/modules/Topics/Iterating over arrays/Sum array elements greater than a value/Bulls_and_Cows.Topics-Iterating_over_arrays-Sum_array_elements_greater_than_a_value.test.iml
+/.idea/modules/Topics/Iterating over arrays/The longest ascending sequence/Bulls_and_Cows.Topics-Iterating_over_arrays-The_longest_ascending_sequence.iml
+/.idea/modules/Topics/Iterating over arrays/The longest ascending sequence/Bulls_and_Cows.Topics-Iterating_over_arrays-The_longest_ascending_sequence.main.iml
+/.idea/modules/Topics/Iterating over arrays/The longest ascending sequence/Bulls_and_Cows.Topics-Iterating_over_arrays-The_longest_ascending_sequence.test.iml
+/.idea/modules/Topics/Iterating over arrays/The minimum value of an array/Bulls_and_Cows.Topics-Iterating_over_arrays-The_minimum_value_of_an_array.iml
+/.idea/modules/Topics/Iterating over arrays/The minimum value of an array/Bulls_and_Cows.Topics-Iterating_over_arrays-The_minimum_value_of_an_array.main.iml
+/.idea/modules/Topics/Iterating over arrays/The minimum value of an array/Bulls_and_Cows.Topics-Iterating_over_arrays-The_minimum_value_of_an_array.test.iml
+/.idea/modules/Topics/Iterating over arrays/The sum of array elements/Bulls_and_Cows.Topics-Iterating_over_arrays-The_sum_of_array_elements.iml
+/.idea/modules/Topics/Iterating over arrays/The sum of array elements/Bulls_and_Cows.Topics-Iterating_over_arrays-The_sum_of_array_elements.main.iml
+/.idea/modules/Topics/Iterating over arrays/The sum of array elements/Bulls_and_Cows.Topics-Iterating_over_arrays-The_sum_of_array_elements.test.iml
+/.idea/modules/Topics/Iterating over arrays/Theory/Bulls_and_Cows.Topics-Iterating_over_arrays-Theory.iml
+/.idea/modules/Topics/Iterating over arrays/Theory/Bulls_and_Cows.Topics-Iterating_over_arrays-Theory.main.iml
+/.idea/modules/Topics/Iterating over arrays/Theory/Bulls_and_Cows.Topics-Iterating_over_arrays-Theory.test.iml
+/.idea/modules/Topics/Iterating over arrays/Triples/Bulls_and_Cows.Topics-Iterating_over_arrays-Triples.iml
+/.idea/modules/Topics/Iterating over arrays/Triples/Bulls_and_Cows.Topics-Iterating_over_arrays-Triples.main.iml
+/.idea/modules/Topics/Iterating over arrays/Triples/Bulls_and_Cows.Topics-Iterating_over_arrays-Triples.test.iml
+/.idea/modules/Topics/StringBuilder/Behold the power of StringBuilder/Bulls_and_Cows.Topics-StringBuilder-Behold_the_power_of_StringBuilder.iml
+/.idea/modules/Topics/StringBuilder/Behold the power of StringBuilder/Bulls_and_Cows.Topics-StringBuilder-Behold_the_power_of_StringBuilder.main.iml
+/.idea/modules/Topics/StringBuilder/Behold the power of StringBuilder/Bulls_and_Cows.Topics-StringBuilder-Behold_the_power_of_StringBuilder.test.iml
+/.idea/modules/Topics/StringBuilder/Concat all strings without digits/Bulls_and_Cows.Topics-StringBuilder-Concat_all_strings_without_digits.iml
+/.idea/modules/Topics/StringBuilder/Concat all strings without digits/Bulls_and_Cows.Topics-StringBuilder-Concat_all_strings_without_digits.main.iml
+/.idea/modules/Topics/StringBuilder/Concat all strings without digits/Bulls_and_Cows.Topics-StringBuilder-Concat_all_strings_without_digits.test.iml
+/.idea/modules/Topics/StringBuilder/Multiple modifications/Bulls_and_Cows.Topics-StringBuilder-Multiple_modifications.iml
+/.idea/modules/Topics/StringBuilder/Multiple modifications/Bulls_and_Cows.Topics-StringBuilder-Multiple_modifications.main.iml
+/.idea/modules/Topics/StringBuilder/Multiple modifications/Bulls_and_Cows.Topics-StringBuilder-Multiple_modifications.test.iml
+/.idea/modules/Topics/StringBuilder/The English alphabet/Bulls_and_Cows.Topics-StringBuilder-The_English_alphabet.iml
+/.idea/modules/Topics/StringBuilder/The English alphabet/Bulls_and_Cows.Topics-StringBuilder-The_English_alphabet.main.iml
+/.idea/modules/Topics/StringBuilder/The English alphabet/Bulls_and_Cows.Topics-StringBuilder-The_English_alphabet.test.iml
+/.idea/modules/Topics/StringBuilder/Theory/Bulls_and_Cows.Topics-StringBuilder-Theory.iml
+/.idea/modules/Topics/StringBuilder/Theory/Bulls_and_Cows.Topics-StringBuilder-Theory.main.iml
+/.idea/modules/Topics/StringBuilder/Theory/Bulls_and_Cows.Topics-StringBuilder-Theory.test.iml
+/.idea/modules/util/Bulls_and_Cows.util.iml
+/.idea/modules/util/Bulls_and_Cows.util.main.iml
+/.idea/modules/util/Bulls_and_Cows.util.test.iml
+/.idea/compiler.xml
+/Topics/StringBuilder/Concat all strings without digits/out/production/classes/ConcatenateStringsProblem.class
+/Topics/StringBuilder/The English alphabet/out/production/classes/EnglishAlphabet.class
+/.idea/externalDependencies.xml
+/.idea/gradle.xml
+/.idea/libraries/Gradle__com_github_hyperskill_hs_test_release_SNAPSHOT.xml
+/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml
+/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml
+/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml
+/.idea/libraries/Gradle__junit_junit_4_12.xml
+/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_9.xml
+/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_11.xml
+/.idea/libraries/Gradle__org_assertj_assertj_core_3_11_1.xml
+/.idea/libraries/Gradle__org_assertj_assertj_swing_3_9_2.xml
+/.idea/libraries/Gradle__org_assertj_assertj_swing_junit_3_9_2.xml
+/.idea/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml
+/.idea/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml
+/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml
+/Bulls and Cows/task/build/tmp/test/jar_extract_3705641274926591238_tmp
+/.idea/jarRepositories.xml
+/Topics/Comparable/lesson-info.yaml
+/Topics/Introduction to generic programming/lesson-info.yaml
+/Topics/Iterating over arrays/lesson-info.yaml
+/Topics/StringBuilder/lesson-info.yaml
+/Topics/Comparable/Implement compareTo method/src/Main.java
+/Topics/Introduction to generic programming/Pastry packing optimization/src/Main.java
+/Topics/Iterating over arrays/Alphabetical order/src/Main.java
+/Topics/Iterating over arrays/Boxes/src/Main.java
+/Topics/Iterating over arrays/Check if an array is sorted ascending/src/Main.java
+/Topics/Iterating over arrays/Count how many times a number occurs/src/Main.java
+/Topics/Iterating over arrays/Cyclically shifting elements/src/Main.java
+/Topics/Iterating over arrays/Individual taxes/src/Main.java
+/Topics/Iterating over arrays/Right Rotation/src/Main.java
+/Topics/Iterating over arrays/Sum array elements greater than a value/src/Main.java
+/Topics/Iterating over arrays/The longest ascending sequence/src/Main.java
+/Topics/Iterating over arrays/The minimum value of an array/src/Main.java
+/Topics/Iterating over arrays/The sum of array elements/src/Main.java
+/Topics/Iterating over arrays/Triples/src/Main.java
+/Topics/StringBuilder/Concat all strings without digits/src/Main.java
+/Topics/StringBuilder/The English alphabet/src/Main.java
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/frameworkLessonHistory/storage.storageData
+/.idea/frameworkLessonHistory/storage.storageRecordIndex
+/Topics/Comparable/compareTo/task.html
+/Topics/Comparable/Comparing objects/task.html
+/Topics/Comparable/Implement Comparable/task.html
+/Topics/Comparable/Implement compareTo method/task.html
+/Topics/Comparable/Natural ordering/task.html
+/Topics/Comparable/Rewrite compareTo method/task.html
+/Topics/Comparable/Rules/task.html
+/Topics/Comparable/Theory/task.html
+/Topics/Introduction to generic programming/Declaring generic classes/task.html
+/Topics/Introduction to generic programming/Declaring generic classes - 2/task.html
+/Topics/Introduction to generic programming/Pastry packing optimization/task.html
+/Topics/Introduction to generic programming/Theory/task.html
+/Topics/Introduction to generic programming/Type arguments/task.html
+/Topics/Iterating over arrays/Alphabetical order/task.html
+/Topics/Iterating over arrays/Boxes/task.html
+/Topics/Iterating over arrays/Check if an array is sorted ascending/task.html
+/Topics/Iterating over arrays/Count how many times a number occurs/task.html
+/Topics/Iterating over arrays/Cyclically shifting elements/task.html
+/Topics/Iterating over arrays/Find the sum/task.html
+/Topics/Iterating over arrays/Individual taxes/task.html
+/Topics/Iterating over arrays/Right Rotation/task.html
+/Topics/Iterating over arrays/Select loops/task.html
+/Topics/Iterating over arrays/Sum array elements greater than a value/task.html
+/Topics/Iterating over arrays/The longest ascending sequence/task.html
+/Topics/Iterating over arrays/The minimum value of an array/task.html
+/Topics/Iterating over arrays/The sum of array elements/task.html
+/Topics/Iterating over arrays/Theory/task.html
+/Topics/Iterating over arrays/Triples/task.html
+/Topics/StringBuilder/Behold the power of StringBuilder/task.html
+/Topics/StringBuilder/Concat all strings without digits/task.html
+/Topics/StringBuilder/Multiple modifications/task.html
+/Topics/StringBuilder/The English alphabet/task.html
+/Topics/StringBuilder/Theory/task.html
+/Topics/Comparable/compareTo/src/Task.java
+/Topics/Comparable/Comparing objects/src/Task.java
+/Topics/Comparable/Implement Comparable/src/Task.java
+/Topics/Comparable/Natural ordering/src/Task.java
+/Topics/Comparable/Rewrite compareTo method/src/Task.java
+/Topics/Comparable/Rules/src/Task.java
+/Topics/Comparable/Theory/src/Task.java
+/Topics/Introduction to generic programming/Declaring generic classes/src/Task.java
+/Topics/Introduction to generic programming/Declaring generic classes - 2/src/Task.java
+/Topics/Introduction to generic programming/Theory/src/Task.java
+/Topics/Introduction to generic programming/Type arguments/src/Task.java
+/Topics/Iterating over arrays/Find the sum/src/Task.java
+/Topics/Iterating over arrays/Select loops/src/Task.java
+/Topics/Iterating over arrays/Theory/src/Task.java
+/Topics/StringBuilder/Behold the power of StringBuilder/src/Task.java
+/Topics/StringBuilder/Multiple modifications/src/Task.java
+/Topics/StringBuilder/Theory/src/Task.java
+/Topics/Comparable/compareTo/task-info.yaml
+/Topics/Comparable/Comparing objects/task-info.yaml
+/Topics/Comparable/Implement Comparable/task-info.yaml
+/Topics/Comparable/Implement compareTo method/task-info.yaml
+/Topics/Comparable/Natural ordering/task-info.yaml
+/Topics/Comparable/Rewrite compareTo method/task-info.yaml
+/Topics/Comparable/Rules/task-info.yaml
+/Topics/Comparable/Theory/task-info.yaml
+/Topics/Introduction to generic programming/Declaring generic classes/task-info.yaml
+/Topics/Introduction to generic programming/Declaring generic classes - 2/task-info.yaml
+/Topics/Introduction to generic programming/Pastry packing optimization/task-info.yaml
+/Topics/Introduction to generic programming/Theory/task-info.yaml
+/Topics/Introduction to generic programming/Type arguments/task-info.yaml
+/Topics/Iterating over arrays/Alphabetical order/task-info.yaml
+/Topics/Iterating over arrays/Boxes/task-info.yaml
+/Topics/Iterating over arrays/Check if an array is sorted ascending/task-info.yaml
+/Topics/Iterating over arrays/Count how many times a number occurs/task-info.yaml
+/Topics/Iterating over arrays/Cyclically shifting elements/task-info.yaml
+/Topics/Iterating over arrays/Find the sum/task-info.yaml
+/Topics/Iterating over arrays/Individual taxes/task-info.yaml
+/Topics/Iterating over arrays/Right Rotation/task-info.yaml
+/Topics/Iterating over arrays/Select loops/task-info.yaml
+/Topics/Iterating over arrays/Sum array elements greater than a value/task-info.yaml
+/Topics/Iterating over arrays/The longest ascending sequence/task-info.yaml
+/Topics/Iterating over arrays/The minimum value of an array/task-info.yaml
+/Topics/Iterating over arrays/The sum of array elements/task-info.yaml
+/Topics/Iterating over arrays/Theory/task-info.yaml
+/Topics/Iterating over arrays/Triples/task-info.yaml
+/Topics/StringBuilder/Behold the power of StringBuilder/task-info.yaml
+/Topics/StringBuilder/Concat all strings without digits/task-info.yaml
+/Topics/StringBuilder/Multiple modifications/task-info.yaml
+/Topics/StringBuilder/The English alphabet/task-info.yaml
+/Topics/StringBuilder/Theory/task-info.yaml
+/Topics/Comparable/compareTo/task-remote-info.yaml
+/Topics/Comparable/Comparing objects/task-remote-info.yaml
+/Topics/Comparable/Implement Comparable/task-remote-info.yaml
+/Topics/Comparable/Implement compareTo method/task-remote-info.yaml
+/Topics/Comparable/Natural ordering/task-remote-info.yaml
+/Topics/Comparable/Rewrite compareTo method/task-remote-info.yaml
+/Topics/Comparable/Rules/task-remote-info.yaml
+/Topics/Comparable/Theory/task-remote-info.yaml
+/Topics/Introduction to generic programming/Declaring generic classes/task-remote-info.yaml
+/Topics/Introduction to generic programming/Declaring generic classes - 2/task-remote-info.yaml
+/Topics/Introduction to generic programming/Pastry packing optimization/task-remote-info.yaml
+/Topics/Introduction to generic programming/Theory/task-remote-info.yaml
+/Topics/Introduction to generic programming/Type arguments/task-remote-info.yaml
+/Topics/Iterating over arrays/Alphabetical order/task-remote-info.yaml
+/Topics/Iterating over arrays/Boxes/task-remote-info.yaml
+/Topics/Iterating over arrays/Check if an array is sorted ascending/task-remote-info.yaml
+/Topics/Iterating over arrays/Count how many times a number occurs/task-remote-info.yaml
+/Topics/Iterating over arrays/Cyclically shifting elements/task-remote-info.yaml
+/Topics/Iterating over arrays/Find the sum/task-remote-info.yaml
+/Topics/Iterating over arrays/Individual taxes/task-remote-info.yaml
+/Topics/Iterating over arrays/Right Rotation/task-remote-info.yaml
+/Topics/Iterating over arrays/Select loops/task-remote-info.yaml
+/Topics/Iterating over arrays/Sum array elements greater than a value/task-remote-info.yaml
+/Topics/Iterating over arrays/The longest ascending sequence/task-remote-info.yaml
+/Topics/Iterating over arrays/The minimum value of an array/task-remote-info.yaml
+/Topics/Iterating over arrays/The sum of array elements/task-remote-info.yaml
+/Topics/Iterating over arrays/Theory/task-remote-info.yaml
+/Topics/Iterating over arrays/Triples/task-remote-info.yaml
+/Topics/StringBuilder/Behold the power of StringBuilder/task-remote-info.yaml
+/Topics/StringBuilder/Concat all strings without digits/task-remote-info.yaml
+/Topics/StringBuilder/Multiple modifications/task-remote-info.yaml
+/Topics/StringBuilder/The English alphabet/task-remote-info.yaml
+/Topics/StringBuilder/Theory/task-remote-info.yaml
