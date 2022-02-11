@@ -1,0 +1,164 @@
+/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock
+/.gradle/7.1/dependencies-accessors/gc.properties
+/.gradle/7.1/executionHistory/executionHistory.bin
+/.gradle/7.1/executionHistory/executionHistory.lock
+/.gradle/7.1/fileChanges/last-build.bin
+/.gradle/7.1/fileHashes/fileHashes.bin
+/.gradle/7.1/fileHashes/fileHashes.lock
+/.gradle/7.1/gc.properties
+/.gradle/7.3.3/checksums/checksums.lock
+/.gradle/7.3.3/checksums/md5-checksums.bin
+/.gradle/7.3.3/checksums/sha1-checksums.bin
+/.gradle/7.3.3/dependencies-accessors/dependencies-accessors.lock
+/.gradle/7.3.3/dependencies-accessors/gc.properties
+/.gradle/7.3.3/executionHistory/executionHistory.bin
+/.gradle/7.3.3/executionHistory/executionHistory.lock
+/.gradle/7.3.3/fileChanges/last-build.bin
+/.gradle/7.3.3/fileHashes/fileHashes.bin
+/.gradle/7.3.3/fileHashes/fileHashes.lock
+/.gradle/7.3.3/fileHashes/resourceHashesCache.bin
+/.gradle/7.3.3/gc.properties
+/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+/.gradle/buildOutputCleanup/cache.properties
+/.gradle/buildOutputCleanup/outputFiles.bin
+/.gradle/checksums/checksums.lock
+/.gradle/checksums/md5-checksums.bin
+/.gradle/checksums/sha1-checksums.bin
+/.gradle/vcs-1/gc.properties
+/.gradle/file-system.probe
+/Bulls and Cows/Error_/task.html
+/Bulls and Cows/Error_/task-info.yaml
+/Bulls and Cows/Error_/task-remote-info.yaml
+/Bulls and Cows/Game log/task.html
+/Bulls and Cows/Game log/task-info.yaml
+/Bulls and Cows/Game log/task-remote-info.yaml
+/Bulls and Cows/Game time_/task.html
+/Bulls and Cows/Game time_/task-info.yaml
+/Bulls and Cows/Game time_/task-remote-info.yaml
+/Bulls and Cows/Grader/task.html
+/Bulls and Cows/Grader/task-info.yaml
+/Bulls and Cows/Grader/task-remote-info.yaml
+/Bulls and Cows/Improve the code generator/task.html
+/Bulls and Cows/Improve the code generator/task-info.yaml
+/Bulls and Cows/Improve the code generator/task-remote-info.yaml
+/Bulls and Cows/New level/task.html
+/Bulls and Cows/New level/task-info.yaml
+/Bulls and Cows/New level/task-remote-info.yaml
+/Bulls and Cows/Secret code/task.html
+/Bulls and Cows/Secret code/task-info.yaml
+/Bulls and Cows/Secret code/task-remote-info.yaml
+/Bulls and Cows/task/build/classes/java/main/bullscows/Grader.class
+/Bulls and Cows/task/build/classes/java/main/bullscows/Main.class
+/Bulls and Cows/task/build/classes/java/test/BullsCowsTest.class
+/Bulls and Cows/task/build/reports/tests/test/classes/BullsCowsTest.html
+/Bulls and Cows/task/build/reports/tests/test/css/base-style.css
+/Bulls and Cows/task/build/reports/tests/test/css/style.css
+/Bulls and Cows/task/build/reports/tests/test/js/report.js
+/Bulls and Cows/task/build/reports/tests/test/packages/default-package.html
+/Bulls and Cows/task/build/reports/tests/test/index.html
+/Bulls and Cows/task/build/test-results/test/binary/output.bin
+/Bulls and Cows/task/build/test-results/test/binary/output.bin.idx
+/Bulls and Cows/task/build/test-results/test/binary/results.bin
+/Bulls and Cows/task/build/test-results/test/TEST-BullsCowsTest.xml
+/Bulls and Cows/task/build/tmp/compileJava/previous-compilation-data.bin
+/Bulls and Cows/task/build/tmp/compileTestJava/previous-compilation-data.bin
+/Bulls and Cows/task/build/tmp/test/jar_extract_888296620445005693_tmp
+/Bulls and Cows/task/build/tmp/test/jar_extract_2197711913049096371_tmp
+/Bulls and Cows/task/build/tmp/test/jar_extract_8497915243525849628_tmp
+/Bulls and Cows/task/out/production/classes/bullscows/Grader.class
+/Bulls and Cows/task/out/production/classes/bullscows/Main.class
+/Bulls and Cows/task/test/BullsCowsTest.java
+/Bulls and Cows/lesson-info.yaml
+/gradle/wrapper/gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.properties
+/Topics/ArrayList/Adding items/src/Task.java
+/Topics/ArrayList/Adding items/task.html
+/Topics/ArrayList/Adding items/task-info.yaml
+/Topics/ArrayList/Adding items/task-remote-info.yaml
+/Topics/ArrayList/Concat positive numbers/src/Main.java
+/Topics/ArrayList/Concat positive numbers/task.html
+/Topics/ArrayList/Concat positive numbers/task-info.yaml
+/Topics/ArrayList/Concat positive numbers/task-remote-info.yaml
+/Topics/ArrayList/Creating list/src/Main.java
+/Topics/ArrayList/Creating list/task.html
+/Topics/ArrayList/Creating list/task-info.yaml
+/Topics/ArrayList/Creating list/task-remote-info.yaml
+/Topics/ArrayList/Find the nearest number/src/Main.java
+/Topics/ArrayList/Find the nearest number/task.html
+/Topics/ArrayList/Find the nearest number/task-info.yaml
+/Topics/ArrayList/Find the nearest number/task-remote-info.yaml
+/Topics/ArrayList/Powers of indexes/src/Task.java
+/Topics/ArrayList/Powers of indexes/task.html
+/Topics/ArrayList/Powers of indexes/task-info.yaml
+/Topics/ArrayList/Powers of indexes/task-remote-info.yaml
+/Topics/ArrayList/Theory/src/Task.java
+/Topics/ArrayList/Theory/task.html
+/Topics/ArrayList/Theory/task-info.yaml
+/Topics/ArrayList/Theory/task-remote-info.yaml
+/Topics/ArrayList/What ArrayList can store/src/Task.java
+/Topics/ArrayList/What ArrayList can store/task.html
+/Topics/ArrayList/What ArrayList can store/task-info.yaml
+/Topics/ArrayList/What ArrayList can store/task-remote-info.yaml
+/Topics/ArrayList/lesson-info.yaml
+/Topics/Boxing and unboxing/Safe converting/src/Main.java
+/Topics/Boxing and unboxing/Safe converting/task.html
+/Topics/Boxing and unboxing/Safe converting/task-info.yaml
+/Topics/Boxing and unboxing/Safe converting/task-remote-info.yaml
+/Topics/Boxing and unboxing/Theory/src/Task.java
+/Topics/Boxing and unboxing/Theory/task.html
+/Topics/Boxing and unboxing/Theory/task-info.yaml
+/Topics/Boxing and unboxing/Theory/task-remote-info.yaml
+/Topics/Boxing and unboxing/lesson-info.yaml
+/Topics/Processing strings/Determine the value/src/Task.java
+/Topics/Processing strings/Determine the value/task.html
+/Topics/Processing strings/Determine the value/task-info.yaml
+/Topics/Processing strings/Determine the value/task-remote-info.yaml
+/Topics/Processing strings/Double characters/src/Main.java
+/Topics/Processing strings/Double characters/task.html
+/Topics/Processing strings/Double characters/task-info.yaml
+/Topics/Processing strings/Double characters/task-remote-info.yaml
+/Topics/Processing strings/Generating passwords/src/Main.java
+/Topics/Processing strings/Generating passwords/task.html
+/Topics/Processing strings/Generating passwords/task-info.yaml
+/Topics/Processing strings/Generating passwords/task-remote-info.yaml
+/Topics/Processing strings/The lucky ticket/src/Main.java
+/Topics/Processing strings/The lucky ticket/task.html
+/Topics/Processing strings/The lucky ticket/task-info.yaml
+/Topics/Processing strings/The lucky ticket/task-remote-info.yaml
+/Topics/Processing strings/Theory/src/Task.java
+/Topics/Processing strings/Theory/task.html
+/Topics/Processing strings/Theory/task-info.yaml
+/Topics/Processing strings/Theory/task-remote-info.yaml
+/Topics/Processing strings/lesson-info.yaml
+/Topics/The List interface/Filtering the list/src/Main.java
+/Topics/The List interface/Filtering the list/task.html
+/Topics/The List interface/Filtering the list/task-info.yaml
+/Topics/The List interface/Filtering the list/task-remote-info.yaml
+/Topics/The List interface/Implementations/src/Task.java
+/Topics/The List interface/Implementations/task.html
+/Topics/The List interface/Implementations/task-info.yaml
+/Topics/The List interface/Implementations/task-remote-info.yaml
+/Topics/The List interface/Mutable lists/src/Task.java
+/Topics/The List interface/Mutable lists/task.html
+/Topics/The List interface/Mutable lists/task-info.yaml
+/Topics/The List interface/Mutable lists/task-remote-info.yaml
+/Topics/The List interface/Similarities between lists and arrays/src/Task.java
+/Topics/The List interface/Similarities between lists and arrays/task.html
+/Topics/The List interface/Similarities between lists and arrays/task-info.yaml
+/Topics/The List interface/Similarities between lists and arrays/task-remote-info.yaml
+/Topics/The List interface/The longest string in the list/src/Main.java
+/Topics/The List interface/The longest string in the list/task.html
+/Topics/The List interface/The longest string in the list/task-info.yaml
+/Topics/The List interface/The longest string in the list/task-remote-info.yaml
+/Topics/The List interface/Theory/src/Task.java
+/Topics/The List interface/Theory/task.html
+/Topics/The List interface/Theory/task-info.yaml
+/Topics/The List interface/Theory/task-remote-info.yaml
+/Topics/The List interface/lesson-info.yaml
+/Topics/section-info.yaml
+/build.gradle
+/course-info.yaml
+/course-remote-info.yaml
+/gradlew
+/gradlew.bat
+/settings.gradle
