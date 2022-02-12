@@ -1,6 +1,5 @@
 package bullscows;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
@@ -12,7 +11,7 @@ public class Main {
         StringBuilder input = new StringBuilder();
         input.append(scanner.nextLine());
 
-        StringBuilder secretCode = new StringBuilder("8192");
+        StringBuilder secretCode = new StringBuilder("9305");
         grader.gradeCode(secretCode, input);
 
     }
