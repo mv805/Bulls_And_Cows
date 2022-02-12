@@ -1,36 +1,28 @@
 package bullscows;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
-
 public class Grader {
 
     int bulls = 0;
     int cows = 0;
-    List<String> secretCode = new ArrayList<>();
-    List<String> playerInput = new ArrayList<>();
 
-    public void gradeCode(String[] secretCode, String[] playerInput) {
+    public void gradeCode(StringBuilder secretCode, StringBuilder playerInput) {
 
-        this.secretCode = Arrays.asList(secretCode);
-        this.playerInput = Arrays.asList(playerInput);
-
-        for (String number : this.playerInput) {
-            cows += Collections.frequency(this.secretCode, number);
-        }
-
-        for (int i = 0; i < this.playerInput.size(); i++) {
-            if (this.playerInput.get(i).equals(this.secretCode.get(i))){
+        for (int i = 0; i < playerInput.length(); i++){
+            if (playerInput.charAt(i) == secretCode.charAt(i)){
                 bulls++;
-                cows--;
+            }
+            for (int j = 0; j < secretCode.length(); j++){
+                if (playerInput.charAt(i) != secretCode.charAt(i) &&
+                        playerInput.charAt(i) == secretCode.charAt(j)){
+                    cows++;
+                }
             }
         }
-        displayGrade();
+
+        displayGrade(secretCode);
     }
 
-    public void displayGrade() {
+    public void displayGrade(StringBuilder secretCode) {
 
         System.out.print("Grade: ");
 
@@ -44,8 +36,6 @@ public class Grader {
             System.out.print("None. ");
         }
 
-        System.out.print("The secret code is ");
-        secretCode.forEach(System.out::print);
-        System.out.print(".");
+        System.out.printf("The secret code is %s", secretCode);
     }
 }
