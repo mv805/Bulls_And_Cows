@@ -2,8 +2,13 @@ package bullscows;
 
 public class Grader {
 
-    int bulls = 0;
-    int cows = 0;
+    private int bulls = 0;
+    private int cows = 0;
+    private int codeLength;
+
+    public void setCodeLength(int codeLength) {
+        this.codeLength = codeLength;
+    }
 
     public void gradeCode(StringBuilder secretCode, StringBuilder playerInput) {
 
@@ -26,15 +31,24 @@ public class Grader {
         System.out.print("Grade: ");
 
         if (bulls == 4 || (bulls > 0 && cows == 0)) {
-            System.out.printf("%d bull(s). ", bulls);
+            System.out.printf("%d bull(s).%n", bulls);
         } else if (bulls > 0 && cows > 0) {
-            System.out.printf("%d bull(s) and %d cow(s). ", bulls, cows);
+            System.out.printf("%d bull(s) and %d cow(s).%n", bulls, cows);
         } else if (bulls == 0 && cows > 0) {
-            System.out.printf("%d cow(s). ", cows);
+            System.out.printf("%d cow(s).%n", cows);
         } else {
-            System.out.print("None. ");
+            System.out.print("None.%n");
         }
-
-        System.out.printf("The secret code is %s", secretCode);
     }
+
+    public boolean checkGameOver(){
+        if (bulls == codeLength){
+            return true;
+        }
+        bulls = 0;
+        cows = 0;
+        return false;
+    }
+
+
 }
