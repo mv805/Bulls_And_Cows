@@ -23,10 +23,9 @@ public class Grader {
                 }
             }
         }
-        displayGrade(secretCode);
     }
 
-    public void displayGrade(StringBuilder secretCode) {
+    public void displayGrade() {
 
         System.out.print("Grade: ");
 
@@ -37,18 +36,19 @@ public class Grader {
         } else if (bulls == 0 && cows > 0) {
             System.out.printf("%d cow(s).%n", cows);
         } else {
-            System.out.print("None.%n");
+            System.out.printf("None.%n");
         }
     }
 
     public boolean checkGameOver(){
-        if (bulls == codeLength){
-            return true;
-        }
+        return bulls == codeLength;
+    }
+
+    public void resetBullsAndCows(){
         bulls = 0;
         cows = 0;
-        return false;
     }
+
 
 
 }
