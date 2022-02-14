@@ -40,15 +40,14 @@ public class Grader {
         }
     }
 
-    public boolean checkGameOver(){
+    public boolean checkGameOver() {
         return bulls == codeLength;
     }
 
-    public void resetBullsAndCows(){
+    public void resetBullsAndCows() {
         bulls = 0;
         cows = 0;
     }
-
 
 
 }
