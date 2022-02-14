@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
     public static final Scanner scanner = new Scanner(System.in);
-
+    public static boolean gameOver = false;
     public static void main(String[] args) {
 
         Grader grader = new Grader();
@@ -15,7 +15,7 @@ public class Main {
 
         String inputString;
         int turn = 1;
-        boolean gameOver = false;
+
 
         while (!gameOver) {
 
@@ -23,10 +23,18 @@ public class Main {
 
                 case PROMPT_CODE:
                     codeBuilder.promptCodeLength();
+                    if (gameOver){
+                        break;
+                    }
                     codeBuilder.promptSymbolLength();
+                    if (gameOver){
+                        break;
+                    }
                     codeBuilder.createSecretCode();
                     codeBuilder.displaySecretCodeInfo();
-                    System.out.println(codeBuilder.getSecretCode());
+                    if (gameOver){
+                        break;
+                    }
                     System.out.println("Okay, let's start a game!");
                     grader.setCodeLength(codeBuilder.getCodeLength());
                     currentState = GameState.TAKE_GUESS;

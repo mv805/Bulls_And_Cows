@@ -24,39 +24,36 @@ public class CodeBuilder {
 
     public void promptCodeLength() {
 
-        final int maxCodeLength = 36;
-
-        while (true) {
-            System.out.println("Please, enter the secret code's length:");
-            int inputLength = Integer.parseInt(scanner.nextLine());
-
-            if (inputLength > maxCodeLength) {
-                System.out.println("Error: can't generate a secret number with a " +
-                        "length of " + maxCodeLength + " because there " +
-                        "aren't enough unique digits");
-            } else {
-                this.codeLength = inputLength;
-                break;
-            }
+        int inputLength;
+        System.out.println("Input the length of the secret code:");
+        String inputString = scanner.nextLine();
+        try {
+            inputLength = Integer.parseInt(inputString);
+        } catch (Exception e){
+            System.out.printf("Error: \"%s\" isn't a valid number.", inputString);
+            Main.gameOver = true;
+            return;
         }
+        this.codeLength = inputLength;
     }
 
     public void promptSymbolLength() {
 
-        final int maxSymbolLength = 36;
+        System.out.println("Input the number of possible symbols " +
+                "in the code: ");
+        int numberOfSymbols = Integer.parseInt(scanner.nextLine());
 
-        while (true) {
-            System.out.println("Input the number of possible symbols " +
-                    "in the code: ");
-            int numberOfSymbols = Integer.parseInt(scanner.nextLine());
-
-            if (numberOfSymbols > maxSymbolLength) {
-                System.out.println("Error: can't generate a secret number with more " +
-                        "than " + maxSymbolLength + " symbols");
-            } else {
-                this.numberOfSymbols = numberOfSymbols;
-                break;
-            }
+        if (numberOfSymbols < codeLength || codeLength == 0) {
+            System.out.printf("Error: it's not possible to generate a code " +
+                    "with a length of %d with %d unique symbols.", codeLength
+            , numberOfSymbols);
+            Main.gameOver = true;
+        } else if (numberOfSymbols > 36){
+            System.out.println("Error: maximum number of possible symbols in" +
+                    " the code is 36 (0-9, a-z).");
+            Main.gameOver = true;
+        } else {
+            this.numberOfSymbols = numberOfSymbols;
         }
     }
 
