@@ -13,8 +13,6 @@ public class CodeBuilder {
     private final StringBuilder secretCode = new StringBuilder();
     private int codeLength;
     private int numberOfSymbols;
-    final int maxCodeLength = 36;
-    final int maxSymbolLength = 36;
 
     public StringBuilder getSecretCode() {
         return secretCode;
@@ -25,6 +23,8 @@ public class CodeBuilder {
     }
 
     public void promptCodeLength() {
+
+        final int maxCodeLength = 36;
 
         while (true) {
             System.out.println("Please, enter the secret code's length:");
@@ -42,6 +42,8 @@ public class CodeBuilder {
     }
 
     public void promptSymbolLength() {
+
+        final int maxSymbolLength = 36;
 
         while (true) {
             System.out.println("Input the number of possible symbols " +
